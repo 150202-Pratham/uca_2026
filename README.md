@@ -2,7 +2,7 @@
 
 Welcome to my **UCA 2026 Learning Repository**.
 
-This repository documents my learning journey throughout UCA 2026. It contains implementations of programming concepts, data structures, algorithms, Linux utilities, system-level programming, and benchmarking projects completed during my coursework and self-study.
+This repository documents my learning journey throughout **UCA 2026**. It contains implementations of C programming concepts, Java programs, Linux utility implementations, sorting algorithms, performance benchmarking, and coursework completed during my software engineering preparation.
 
 ---
 
@@ -12,24 +12,15 @@ This repository documents my learning journey throughout UCA 2026. It contains i
 uca_2026/
 │
 ├── C/
-│   ├── Basic Programs/
-│   ├── Linux Commands/
-│   │   └── cp_implementation/
+│   ├── CopyImplementation/
+│   │
+│   ├── AuditlogImplementation/
+│   │
 │   ├── SortingImplementation/
-│   │   ├── main.c
-│   │   ├── sorting.c
-│   │   ├── sorting.h
-│   │   ├── generator.c
-│   │   ├── generator.h
-│   │   ├── timer.c
-│   │   ├── timer.h
-│   │   ├── Makefile
-│   │   └── results.csv
 │   │
 │   └── ...
 │
 ├── Java/
-│   └── HelloUCA.java
 │
 ├── .gitignore
 └── README.md
@@ -37,41 +28,53 @@ uca_2026/
 
 ---
 
-# 💻 C Programming
+# 📌 Featured Projects
 
-This section contains C programming assignments, Linux programming exercises, and algorithm implementations.
-
-Current Topics
-
-- Basic C Programs
-- File Handling
-- Modular Programming
-- Makefile
-- Linux System Programming
-- Implementation of Linux `cp` Command
-- Sorting Algorithms
-- Execution Time Benchmarking
+| Project | Description | Status |
+|---------|-------------|--------|
+| 📁 CopyImplementation | Linux `cp` command implementation in C | ✅ Completed |
+| 📁 AuditlogImplementation | Command-line audit logging utility in C | ✅ Completed |
+| 📁 SortingImplementation | Sorting algorithms with execution time benchmarking | ✅ Completed |
+| ☕ Java Programs | Java programming practice | 🚧 In Progress |
 
 ---
 
-# 📁 Linux Programming
+# 💻 C Projects
 
-### Linux `cp` Command Implementation
+## 📁 CopyImplementation
 
-Implemented a simplified version of the Linux **cp** utility in C.
+A custom implementation of the Linux **cp** command.
 
 ### Features
 
-- Copy file contents
+- Copy files from source to destination
+- Command-line argument parsing
+- File I/O operations
 - Error handling
-- Command-line arguments
-- File I/O using system calls / standard library (depending on implementation)
+- Modular implementation
 
 ---
 
-# 📊 Sorting Algorithm Benchmark
+## 📁 AuditlogImplementation
 
-Implemented and analyzed the execution time of the following sorting algorithms:
+A command-line audit logging utility implemented in C.
+
+### Features
+
+- Maintain audit logs
+- Timestamp each log entry
+- File-based logging
+- Command-line interface
+- Error handling
+- Modular project structure
+
+---
+
+## 📁 SortingImplementation
+
+Performance analysis of commonly used sorting algorithms.
+
+### Implemented Algorithms
 
 - Bubble Sort
 - Insertion Sort
@@ -80,23 +83,18 @@ Implemented and analyzed the execution time of the following sorting algorithms:
 - Merge Sort
 - Heap Sort
 
----
-
-## Input Types
-
-Each algorithm is tested using:
+### Benchmark Features
 
 - Random Input
 - Ascending Input
 - Descending Input
+- Automatic execution time measurement
+- CSV report generation
+- Complexity visualization using Excel
 
----
+### Input Sizes
 
-## Input Sizes
-
-Benchmark executed for:
-
-```text
+```
 8000
 12000
 16000
@@ -109,20 +107,10 @@ Benchmark executed for:
 
 ---
 
-## Output
+# 📊 Time Complexity Summary
 
-The benchmark automatically generates:
-
-- `results.csv`
-
-The generated dataset is used to visualize algorithm complexity in Microsoft Excel.
-
----
-
-# ⚡ Time Complexity Summary
-
-| Algorithm | Best | Average | Worst |
-|------------|--------|------------|----------|
+| Algorithm | Best Case | Average Case | Worst Case |
+|------------|-----------|--------------|------------|
 | Bubble Sort | O(n) | O(n²) | O(n²) |
 | Insertion Sort | O(n) | O(n²) | O(n²) |
 | Selection Sort | O(n²) | O(n²) | O(n²) |
@@ -132,21 +120,36 @@ The generated dataset is used to visualize algorithm complexity in Microsoft Exc
 
 ---
 
+# ☕ Java
+
+This section contains Java programs created while learning core programming concepts.
+
+Topics covered include:
+
+- Basic Syntax
+- Object-Oriented Programming
+- Console Applications
+- Java Fundamentals
+
+More Java projects will be added as the learning journey progresses.
+
+---
+
 # ⚙️ Build Instructions
 
-Compile the project
+## Compile
 
 ```bash
 make
 ```
 
-Run
+## Run
 
 ```bash
 make run
 ```
 
-Clean generated files
+## Clean
 
 ```bash
 make clean
@@ -159,36 +162,23 @@ make clean
 - C
 - Java
 - GCC
-- Makefile
+- GNU Make
 - Linux
+- Shell
 - Git
 - GitHub
 - Microsoft Excel
 
 ---
 
-# 📅 Progress Log
+# 📈 Learning Objectives
 
-| Date | Update |
-|------|--------|
-| 01 July 2026 | Created Repository |
-| 01 July 2026 | Added Basic C Program |
-| 01 July 2026 | Added Java Program |
-| July 2026 | Implemented Linux `cp` Command |
-| July 2026 | Added Sorting Algorithm Implementations |
-| July 2026 | Implemented Benchmarking Framework |
-| July 2026 | Added CSV Export for Performance Analysis |
-| July 2026 | Added Makefile Support |
-
----
-
-# 🎯 Learning Objectives
-
-This repository is intended to strengthen understanding of:
+This repository is focused on improving understanding of:
 
 - C Programming
 - Java Programming
-- Linux Commands
+- Linux Programming
+- Linux Utilities
 - File Handling
 - Modular Programming
 - Makefiles
@@ -199,20 +189,46 @@ This repository is intended to strengthen understanding of:
 
 ---
 
-# 🚧 Future Work
+# 📅 Progress Timeline
 
-Planned additions include:
+| Date | Progress |
+|------|----------|
+| 01 Jul 2026 | Repository Created |
+| 01 Jul 2026 | Added Basic C Programs |
+| 01 Jul 2026 | Added Java Programs |
+| Jul 2026 | Implemented **CopyImplementation** |
+| Jul 2026 | Implemented **AuditlogImplementation** |
+| Jul 2026 | Implemented Sorting Algorithms |
+| Jul 2026 | Built Sorting Benchmark Framework |
+| Jul 2026 | Added CSV Export for Performance Analysis |
+| Jul 2026 | Added Makefile Support |
+
+---
+
+# 🚧 Future Roadmap
+
+The repository will continue to grow with implementations of:
 
 - Searching Algorithms
 - Linked Lists
-- Stacks & Queues
+- Stacks
+- Queues
 - Trees
 - Graph Algorithms
 - Dynamic Programming
-- Operating System Concepts
+- Greedy Algorithms
+- Operating Systems
 - Computer Networks
 - Database Management System (DBMS)
-- System Design Notes
+- System Design
+- Multithreading in C
+- Socket Programming
+
+---
+
+# 🤝 Contributing
+
+This repository is maintained as a personal learning archive. Suggestions, improvements, and discussions are always welcome.
 
 ---
 
@@ -220,4 +236,6 @@ Planned additions include:
 
 **Pratham Garg**
 
-This repository serves as a record of my programming practice, coursework, and continuous learning throughout UCA 2026.
+This repository serves as a comprehensive record of my programming practice, coursework, algorithm implementations, Linux programming, and continuous learning throughout **UCA 2026**.
+
+⭐ If you find this repository useful, feel free to star it.
