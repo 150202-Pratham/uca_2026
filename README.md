@@ -13,7 +13,7 @@ Welcome to my Software Engineering Repository.
 | C Files | 13 |
 | Markdown Files | 2 |
 | Folders | 14 |
-| Total Files | 54 |
+| Total Files | 47 |
 
 
 ---
@@ -41,7 +41,6 @@ Welcome to my Software Engineering Repository.
 │   ├── URLEncoder
 │   └── URLEncoder.c
 ├── Java
-│   ├── HelloUCA.class
 │   └── HelloUCA.java
 ├── Linux
 │   ├── Employee.bash
@@ -58,19 +57,22 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Linux Awk Command
+**Message:** Add README automation
 
 **Author:** Pratham
 
-**Date:** 2026-07-18
+**Date:** 2026-07-19
 
 
 ---
 
 ## 📄 Recently Added Files
 
-- Linux/Employee.bash
-- Linux/employees.txt
+- .github/workflows/update-readme.yml
+- C/FibonacciEvenSum
+- README.md
+- scripts/generate-readme.js
+- scripts/utils/git.js
 
 ---
 
