@@ -12,8 +12,8 @@ Welcome to my Software Engineering Repository.
 | Java Files | 2 |
 | C Files | 13 |
 | Markdown Files | 2 |
-| Folders | 14 |
-| Total Files | 47 |
+| Folders | 15 |
+| Total Files | 52 |
 
 
 ---
@@ -46,7 +46,8 @@ Welcome to my Software Engineering Repository.
 │   ├── Employee.bash
 │   └── employees.txt
 ├── WebTechnology
-│   └── Day2
+│   ├── MiniProject
+│   └── Task1
 ├── .gitignore
 ├── package.json
 └── README.md
@@ -57,22 +58,22 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Add README automation
+**Message:** Feat: Implemented the Fetch query using Worker
 
 **Author:** Pratham
 
-**Date:** 2026-07-19
+**Date:** 2026-07-24
 
 
 ---
 
 ## 📄 Recently Added Files
 
-- .github/workflows/update-readme.yml
-- C/FibonacciEvenSum
-- README.md
-- scripts/generate-readme.js
-- scripts/utils/git.js
+- WebTechnology/Day2/index.html
+- WebTechnology/MiniProject/Explanation.js
+- WebTechnology/MiniProject/index.html
+- WebTechnology/MiniProject/index.js
+- WebTechnology/Task1/index.html
 
 ---
 
