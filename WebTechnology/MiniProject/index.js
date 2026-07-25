@@ -2,11 +2,15 @@ let productListFromServer = []
 loadDataFromServer() 
 renderProducts(productListFromServer)
 
+function setProductListFromServer(productList , callBackFn){
+    productListFromServer = productList ;
+
+}
 
 function loadDataFromServer(){
     setTimeout(()=>{
         console.log("data Coming") 
-        productListFromServer = [
+        setProductListFromServer([
             {
                 name : "Product1" ,
                 price : "$10.00" ,
@@ -21,8 +25,8 @@ function loadDataFromServer(){
                 name : "Product3" ,
                 price : "$20.00" ,
                 description: "This Product is Even better" 
-            },
-    ]
+        }] , callBackFn )
+    
 
     console.log("Data from Server",productListFromServer); 
     renderProducts(productListFromServer);
