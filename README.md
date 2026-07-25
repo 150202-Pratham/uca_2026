@@ -9,11 +9,11 @@ Welcome to my Software Engineering Repository.
 
 | Metric | Count |
 |--------|------:|
-| Java Files | 3 |
+| Java Files | 4 |
 | C Files | 13 |
 | Markdown Files | 2 |
 | Folders | 15 |
-| Total Files | 53 |
+| Total Files | 54 |
 
 
 ---
@@ -41,6 +41,7 @@ Welcome to my Software Engineering Repository.
 │   ├── URLEncoder
 │   └── URLEncoder.c
 ├── Java
+│   ├── CountInversions.java
 │   ├── HelloUCA.java
 │   └── ReversePair.java
 ├── Linux
@@ -59,7 +60,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Web Chnages
+**Message:** Implemeted Count Inversions Code in java
 
 **Author:** Pratham
 
@@ -70,7 +71,7 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- WebTechnology/MiniProject/index.js
+- Java/CountInversions.java
 
 ---
 
