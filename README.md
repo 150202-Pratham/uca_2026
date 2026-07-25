@@ -9,11 +9,11 @@ Welcome to my Software Engineering Repository.
 
 | Metric | Count |
 |--------|------:|
-| Java Files | 4 |
+| Java Files | 5 |
 | C Files | 13 |
 | Markdown Files | 2 |
 | Folders | 15 |
-| Total Files | 54 |
+| Total Files | 55 |
 
 
 ---
@@ -42,6 +42,7 @@ Welcome to my Software Engineering Repository.
 │   └── URLEncoder.c
 ├── Java
 │   ├── CountInversions.java
+│   ├── CountNumbersOnLeft.java
 │   ├── HelloUCA.java
 │   └── ReversePair.java
 ├── Linux
@@ -60,7 +61,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemeted Count Inversions Code in java
+**Message:** Implemented Count Numbers on left
 
 **Author:** Pratham
 
@@ -71,7 +72,7 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- Java/CountInversions.java
+- Java/CountNumbersOnLeft.java
 
 ---
 
