@@ -9,11 +9,11 @@ Welcome to my Software Engineering Repository.
 
 | Metric | Count |
 |--------|------:|
-| Java Files | 2 |
+| Java Files | 3 |
 | C Files | 13 |
 | Markdown Files | 2 |
 | Folders | 15 |
-| Total Files | 52 |
+| Total Files | 53 |
 
 
 ---
@@ -41,7 +41,8 @@ Welcome to my Software Engineering Repository.
 │   ├── URLEncoder
 │   └── URLEncoder.c
 ├── Java
-│   └── HelloUCA.java
+│   ├── HelloUCA.java
+│   └── ReversePair.java
 ├── Linux
 │   ├── Employee.bash
 │   └── employees.txt
@@ -58,22 +59,18 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Feat: Implemented the Fetch query using Worker
+**Message:** Web Chnages
 
 **Author:** Pratham
 
-**Date:** 2026-07-24
+**Date:** 2026-07-25
 
 
 ---
 
 ## 📄 Recently Added Files
 
-- WebTechnology/Day2/index.html
-- WebTechnology/MiniProject/Explanation.js
-- WebTechnology/MiniProject/index.html
 - WebTechnology/MiniProject/index.js
-- WebTechnology/Task1/index.html
 
 ---
 
