@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 5 |
-| C Files | 13 |
+| C Files | 15 |
 | Markdown Files | 2 |
-| Folders | 15 |
-| Total Files | 55 |
+| Folders | 16 |
+| Total Files | 57 |
 
 
 ---
@@ -23,9 +23,11 @@ Welcome to my Software Engineering Repository.
 ```text
 ├── C
 │   ├── AuditlogImplementation
+│   ├── BitAndBytes
 │   ├── CopyImplementation
 │   ├── SortingAlgorithmns
 │   ├── SortingImplementation
+│   ├── bitAnd.c
 │   ├── CustomImplementationFindingLength.c
 │   ├── FibonacciEvenSum
 │   ├── FibonacciEvenSum.c
@@ -61,18 +63,19 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented Count Numbers on left
+**Message:** Implemented the Bitvise and operation using only the not and | expression
 
 **Author:** Pratham
 
-**Date:** 2026-07-25
+**Date:** 2026-07-31
 
 
 ---
 
 ## 📄 Recently Added Files
 
-- Java/CountNumbersOnLeft.java
+- C/BitAndBytes/bitAnd.c
+- C/bitAnd.c
 
 ---
 
