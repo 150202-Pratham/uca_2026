@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 5 |
-| C Files | 16 |
+| C Files | 17 |
 | Markdown Files | 2 |
 | Folders | 16 |
-| Total Files | 58 |
+| Total Files | 60 |
 
 
 ---
@@ -63,7 +63,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented BitXor.c
+**Message:** Implemented FitBits using Command Line Arguments
 
 **Author:** Pratham
 
@@ -74,7 +74,8 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- C/BitAndBytes/BitXor.c
+- C/BitAndBytes/FitBit
+- C/BitAndBytes/FitBits.c
 
 ---
 
