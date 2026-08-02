@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 5 |
-| C Files | 15 |
+| C Files | 16 |
 | Markdown Files | 2 |
 | Folders | 16 |
-| Total Files | 57 |
+| Total Files | 58 |
 
 
 ---
@@ -63,19 +63,18 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented the Bitvise and operation using only the not and | expression
+**Message:** Implemented BitXor.c
 
 **Author:** Pratham
 
-**Date:** 2026-07-31
+**Date:** 2026-08-02
 
 
 ---
 
 ## 📄 Recently Added Files
 
-- C/BitAndBytes/bitAnd.c
-- C/bitAnd.c
+- C/BitAndBytes/BitXor.c
 
 ---
 
