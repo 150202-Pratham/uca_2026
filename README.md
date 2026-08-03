@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 5 |
-| C Files | 21 |
+| C Files | 22 |
 | Markdown Files | 2 |
 | Folders | 16 |
-| Total Files | 68 |
+| Total Files | 70 |
 
 
 ---
@@ -63,7 +63,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented Bang
+**Message:** Implemented Conditional
 
 **Author:** Pratham
 
@@ -74,8 +74,8 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- C/BitAndBytes/Bang
-- C/BitAndBytes/Bang.c
+- C/BitAndBytes/Conditional
+- C/BitAndBytes/Conditional.c
 
 ---
 
