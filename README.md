@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 5 |
-| C Files | 17 |
+| C Files | 18 |
 | Markdown Files | 2 |
 | Folders | 16 |
-| Total Files | 60 |
+| Total Files | 62 |
 
 
 ---
@@ -63,19 +63,19 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented FitBits using Command Line Arguments
+**Message:** Solved SignBits
 
 **Author:** Pratham
 
-**Date:** 2026-08-02
+**Date:** 2026-08-03
 
 
 ---
 
 ## 📄 Recently Added Files
 
-- C/BitAndBytes/FitBit
-- C/BitAndBytes/FitBits.c
+- C/BitAndBytes/SignBits
+- C/BitAndBytes/SignBits.c
 
 ---
 
