@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 5 |
-| C Files | 18 |
+| C Files | 19 |
 | Markdown Files | 2 |
 | Folders | 16 |
-| Total Files | 62 |
+| Total Files | 64 |
 
 
 ---
@@ -63,7 +63,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Solved SignBits
+**Message:** Solved GetByte
 
 **Author:** Pratham
 
@@ -74,8 +74,8 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- C/BitAndBytes/SignBits
-- C/BitAndBytes/SignBits.c
+- C/BitAndBytes/GetByte
+- C/BitAndBytes/GetByte.c
 
 ---
 
