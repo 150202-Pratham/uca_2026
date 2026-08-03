@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 5 |
-| C Files | 20 |
+| C Files | 21 |
 | Markdown Files | 2 |
 | Folders | 16 |
-| Total Files | 66 |
+| Total Files | 68 |
 
 
 ---
@@ -63,7 +63,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented Logical Shift
+**Message:** Implemented Bang
 
 **Author:** Pratham
 
@@ -74,8 +74,8 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- C/BitAndBytes/LogicalShift
-- C/BitAndBytes/LogicalShift.c
+- C/BitAndBytes/Bang
+- C/BitAndBytes/Bang.c
 
 ---
 
