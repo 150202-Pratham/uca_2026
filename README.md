@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 5 |
-| C Files | 22 |
+| C Files | 23 |
 | Markdown Files | 2 |
 | Folders | 16 |
-| Total Files | 70 |
+| Total Files | 72 |
 
 
 ---
@@ -63,7 +63,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented Conditional
+**Message:** Implemented IsPower()
 
 **Author:** Pratham
 
@@ -74,8 +74,8 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- C/BitAndBytes/Conditional
-- C/BitAndBytes/Conditional.c
+- C/BitAndBytes/isPower
+- C/BitAndBytes/isPower.c
 
 ---
 
