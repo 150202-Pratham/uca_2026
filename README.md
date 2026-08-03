@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 5 |
-| C Files | 19 |
+| C Files | 20 |
 | Markdown Files | 2 |
 | Folders | 16 |
-| Total Files | 64 |
+| Total Files | 66 |
 
 
 ---
@@ -63,7 +63,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Solved GetByte
+**Message:** Implemented Logical Shift
 
 **Author:** Pratham
 
@@ -74,8 +74,8 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- C/BitAndBytes/GetByte
-- C/BitAndBytes/GetByte.c
+- C/BitAndBytes/LogicalShift
+- C/BitAndBytes/LogicalShift.c
 
 ---
 
