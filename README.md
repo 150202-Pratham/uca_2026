@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 5 |
-| C Files | 23 |
+| C Files | 24 |
 | Markdown Files | 2 |
 | Folders | 16 |
-| Total Files | 72 |
+| Total Files | 73 |
 
 
 ---
@@ -54,6 +54,7 @@ Welcome to my Software Engineering Repository.
 │   ├── MiniProject
 │   └── Task1
 ├── .gitignore
+├── BitXor.c
 ├── package.json
 └── README.md
 ```
@@ -63,19 +64,18 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented IsPower()
+**Message:** Added the BitXor.c File
 
 **Author:** Pratham
 
-**Date:** 2026-08-03
+**Date:** 2026-08-09
 
 
 ---
 
 ## 📄 Recently Added Files
 
-- C/BitAndBytes/isPower
-- C/BitAndBytes/isPower.c
+- BitXor.c
 
 ---
 
