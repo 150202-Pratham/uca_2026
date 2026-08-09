@@ -9,11 +9,11 @@ Welcome to my Software Engineering Repository.
 
 | Metric | Count |
 |--------|------:|
-| Java Files | 5 |
+| Java Files | 6 |
 | C Files | 24 |
 | Markdown Files | 2 |
-| Folders | 16 |
-| Total Files | 73 |
+| Folders | 17 |
+| Total Files | 74 |
 
 
 ---
@@ -43,6 +43,7 @@ Welcome to my Software Engineering Repository.
 │   ├── URLEncoder
 │   └── URLEncoder.c
 ├── Java
+│   ├── Heaps
 │   ├── CountInversions.java
 │   ├── CountNumbersOnLeft.java
 │   ├── HelloUCA.java
@@ -64,7 +65,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Added the BitXor.c File
+**Message:** Implemented HeapSort in Java
 
 **Author:** Pratham
 
@@ -75,7 +76,7 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- BitXor.c
+- Java/Heaps/HeapSort.java
 
 ---
 
