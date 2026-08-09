@@ -86,7 +86,7 @@ class HeapSort< T extends Comparable<T>>{
 
 		T temp = list.get(0) ;
 
-	        T last = list.get(list.size()-1) ; 
+	        T last = list.remove(list.size()-1) ; 
 
 		if( !list.isEmpty()){
 
