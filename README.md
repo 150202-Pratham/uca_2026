@@ -68,7 +68,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented Assignment Task
+**Message:** Modified Code for HepSort
 
 **Author:** Pratham
 
@@ -79,8 +79,7 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- WebTechnology/Task2/index.html
-- WebTechnology/Task2/index.js
+- Java/Heaps/HeapSort.java
 
 ---
 
