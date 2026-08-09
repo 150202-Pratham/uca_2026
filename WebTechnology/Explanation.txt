@@ -1,0 +1,16 @@
+map -> Map stores Data in form of Key-Value Pairs ,
+( These are Ordered and maintain a particular iteration behaviour)
+in map key can be of any Data Type 
+let map1 = new Map([[name , "John Doe"]])
+
+workig object oriented javascript 
+// object literal
+
+var obj1 = {
+    "name" : "John Doe,
+    "age" : 30 ,
+
+}
+
+object is function in js and by using it we create objects or without using it we create such types of objects
+var obj2 = Object.create
