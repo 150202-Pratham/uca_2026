@@ -12,8 +12,8 @@ Welcome to my Software Engineering Repository.
 | Java Files | 6 |
 | C Files | 24 |
 | Markdown Files | 2 |
-| Folders | 17 |
-| Total Files | 75 |
+| Folders | 18 |
+| Total Files | 77 |
 
 
 ---
@@ -53,6 +53,7 @@ Welcome to my Software Engineering Repository.
 │   └── employees.txt
 ├── WebTechnology
 │   ├── MiniProject
+│   ├── OOPS
 │   ├── Task1
 │   └── Explanation.txt
 ├── .gitignore
@@ -66,7 +67,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Expanation of Javascript Object Oriented Manner
+**Message:** Implementation of OOPS Concept of Javascript
 
 **Author:** Pratham
 
@@ -77,7 +78,8 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- WebTechnology/Explanation.txt
+- WebTechnology/OOPS/Objects.js
+- WebTechnology/OOPS/index.html
 
 ---
 
