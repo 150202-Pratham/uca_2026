@@ -12,8 +12,8 @@ Welcome to my Software Engineering Repository.
 | Java Files | 6 |
 | C Files | 24 |
 | Markdown Files | 2 |
-| Folders | 18 |
-| Total Files | 77 |
+| Folders | 19 |
+| Total Files | 79 |
 
 
 ---
@@ -55,6 +55,7 @@ Welcome to my Software Engineering Repository.
 │   ├── MiniProject
 │   ├── OOPS
 │   ├── Task1
+│   ├── Task2
 │   └── Explanation.txt
 ├── .gitignore
 ├── BitXor.c
@@ -67,7 +68,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implementation of OOPS Concept of Javascript
+**Message:** Implemented Assignment Task
 
 **Author:** Pratham
 
@@ -78,8 +79,8 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- WebTechnology/OOPS/Objects.js
-- WebTechnology/OOPS/index.html
+- WebTechnology/Task2/index.html
+- WebTechnology/Task2/index.js
 
 ---
 
