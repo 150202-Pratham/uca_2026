@@ -13,7 +13,7 @@ Welcome to my Software Engineering Repository.
 | C Files | 24 |
 | Markdown Files | 2 |
 | Folders | 17 |
-| Total Files | 74 |
+| Total Files | 75 |
 
 
 ---
@@ -53,7 +53,8 @@ Welcome to my Software Engineering Repository.
 │   └── employees.txt
 ├── WebTechnology
 │   ├── MiniProject
-│   └── Task1
+│   ├── Task1
+│   └── Explanation.txt
 ├── .gitignore
 ├── BitXor.c
 ├── package.json
@@ -65,7 +66,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented HeapSort in Java
+**Message:** Expanation of Javascript Object Oriented Manner
 
 **Author:** Pratham
 
@@ -76,7 +77,7 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- Java/Heaps/HeapSort.java
+- WebTechnology/Explanation.txt
 
 ---
 
