@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 6 |
-| C Files | 24 |
+| C Files | 25 |
 | Markdown Files | 2 |
-| Folders | 19 |
-| Total Files | 79 |
+| Folders | 20 |
+| Total Files | 81 |
 
 
 ---
@@ -25,6 +25,7 @@ Welcome to my Software Engineering Repository.
 │   ├── AuditlogImplementation
 │   ├── BitAndBytes
 │   ├── CopyImplementation
+│   ├── Processes
 │   ├── SortingAlgorithmns
 │   ├── SortingImplementation
 │   ├── bitAnd.c
@@ -68,18 +69,19 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Modified Code for HepSort
+**Message:** Processes and Virtaul Memory
 
 **Author:** Pratham
 
-**Date:** 2026-08-09
+**Date:** 2026-08-10
 
 
 ---
 
 ## 📄 Recently Added Files
 
-- Java/Heaps/HeapSort.java
+- C/Processes/Process
+- C/Processes/Process.c
 
 ---
 
