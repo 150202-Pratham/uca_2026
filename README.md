@@ -13,7 +13,7 @@ Welcome to my Software Engineering Repository.
 | C Files | 25 |
 | Markdown Files | 2 |
 | Folders | 21 |
-| Total Files | 86 |
+| Total Files | 87 |
 
 
 ---
@@ -73,7 +73,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented the Calulator Function using Generator Function
+**Message:** Implemented FibonacciiGenerator using Generator Function
 
 **Author:** Pratham
 
@@ -84,7 +84,7 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- WebTechnology/TaskWeek5/Calculator.js
+- WebTechnology/TaskWeek5/FibonacciiGenerator.js
 - WebTechnology/TaskWeek5/index.html
 
 ---
