@@ -12,8 +12,8 @@ Welcome to my Software Engineering Repository.
 | Java Files | 9 |
 | C Files | 25 |
 | Markdown Files | 2 |
-| Folders | 20 |
-| Total Files | 84 |
+| Folders | 21 |
+| Total Files | 86 |
 
 
 ---
@@ -60,6 +60,7 @@ Welcome to my Software Engineering Repository.
 │   ├── OOPS
 │   ├── Task1
 │   ├── Task2
+│   ├── TaskWeek5
 │   └── Explanation.txt
 ├── .gitignore
 ├── BitXor.c
@@ -72,7 +73,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented RunningMedianofNumbers
+**Message:** Implemented the Calulator Function using Generator Function
 
 **Author:** Pratham
 
@@ -83,7 +84,8 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- Java/RunningMedian.java
+- WebTechnology/TaskWeek5/Calculator.js
+- WebTechnology/TaskWeek5/index.html
 
 ---
 
