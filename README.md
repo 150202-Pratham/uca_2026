@@ -9,11 +9,11 @@ Welcome to my Software Engineering Repository.
 
 | Metric | Count |
 |--------|------:|
-| Java Files | 8 |
+| Java Files | 9 |
 | C Files | 25 |
 | Markdown Files | 2 |
 | Folders | 20 |
-| Total Files | 83 |
+| Total Files | 84 |
 
 
 ---
@@ -50,6 +50,7 @@ Welcome to my Software Engineering Repository.
 │   ├── CountNumbersOnLeft.java
 │   ├── HelloUCA.java
 │   ├── ReversePair.java
+│   ├── RunningMedian.java
 │   └── SetMatrixZeroes.java
 ├── Linux
 │   ├── Employee.bash
@@ -71,18 +72,18 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** SetMatrixToZeroes
+**Message:** Implemented RunningMedianofNumbers
 
 **Author:** Pratham
 
-**Date:** 2026-08-10
+**Date:** 2026-08-11
 
 
 ---
 
 ## 📄 Recently Added Files
 
-- Java/SetMatrixZeroes.java
+- Java/RunningMedian.java
 
 ---
 
