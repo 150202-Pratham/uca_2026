@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 9 |
-| C Files | 25 |
+| C Files | 26 |
 | Markdown Files | 2 |
 | Folders | 21 |
-| Total Files | 87 |
+| Total Files | 89 |
 
 
 ---
@@ -28,6 +28,8 @@ Welcome to my Software Engineering Repository.
 │   ├── Processes
 │   ├── SortingAlgorithmns
 │   ├── SortingImplementation
+│   ├── Base64Encoding
+│   ├── Base64Encoding.c
 │   ├── bitAnd.c
 │   ├── CustomImplementationFindingLength.c
 │   ├── FibonacciEvenSum
@@ -73,19 +75,19 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented FibonacciiGenerator using Generator Function
+**Message:** Implemented Base64Encoding
 
 **Author:** Pratham
 
-**Date:** 2026-08-11
+**Date:** 2026-08-12
 
 
 ---
 
 ## 📄 Recently Added Files
 
-- WebTechnology/TaskWeek5/FibonacciiGenerator.js
-- WebTechnology/TaskWeek5/index.html
+- C/Base64Encoding
+- C/Base64Encoding.c
 
 ---
 
