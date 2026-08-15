@@ -14,3 +14,8 @@ var obj1 = {
 
 object is function in js and by using it we create objects or without using it we create such types of objects
 var obj2 = Object.create
+
+
+const obj1 = {name: "name1} ;
+const obj2 = {name: "name1"} ;
+const onj3 = new Object([{name_0:"name_1"}])
