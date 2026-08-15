@@ -9,11 +9,11 @@ Welcome to my Software Engineering Repository.
 
 | Metric | Count |
 |--------|------:|
-| Java Files | 9 |
+| Java Files | 10 |
 | C Files | 26 |
 | Markdown Files | 2 |
 | Folders | 21 |
-| Total Files | 89 |
+| Total Files | 91 |
 
 
 ---
@@ -50,6 +50,7 @@ Welcome to my Software Engineering Repository.
 │   ├── ClinicsAndVillages.java
 │   ├── CountInversions.java
 │   ├── CountNumbersOnLeft.java
+│   ├── FindNumbers.java
 │   ├── HelloUCA.java
 │   ├── ReversePair.java
 │   ├── RunningMedian.java
@@ -75,19 +76,19 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented Base64Encoding
+**Message:** OOPS Explanation in Javascript
 
 **Author:** Pratham
 
-**Date:** 2026-08-12
+**Date:** 2026-08-15
 
 
 ---
 
 ## 📄 Recently Added Files
 
-- C/Base64Encoding
-- C/Base64Encoding.c
+- WebTechnology/Explanation.txt
+- WebTechnology/OOPS/class.js
 
 ---
 
