@@ -9,11 +9,11 @@ Welcome to my Software Engineering Repository.
 
 | Metric | Count |
 |--------|------:|
-| Java Files | 10 |
+| Java Files | 11 |
 | C Files | 27 |
 | Markdown Files | 2 |
 | Folders | 21 |
-| Total Files | 93 |
+| Total Files | 96 |
 
 
 ---
@@ -47,6 +47,7 @@ Welcome to my Software Engineering Repository.
 │   └── URLEncoder.c
 ├── Java
 │   ├── Heaps
+│   ├── BalancedParenthesis.java
 │   ├── ClinicsAndVillages.java
 │   ├── CountInversions.java
 │   ├── CountNumbersOnLeft.java
@@ -66,7 +67,9 @@ Welcome to my Software Engineering Repository.
 │   ├── Task1
 │   ├── Task2
 │   ├── TaskWeek5
-│   └── Explanation.txt
+│   ├── Explanation.txt
+│   ├── OOPS.html
+│   └── OOPS.js
 ├── .gitignore
 ├── BitXor.c
 ├── package.json
@@ -78,19 +81,20 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Process Address Translation
+**Message:** Recent Changs to the OOPS.txt File in Web Developemnt
 
 **Author:** Pratham
 
-**Date:** 2026-08-17
+**Date:** 2026-08-24
 
 
 ---
 
 ## 📄 Recently Added Files
 
-- Linux/AddressTranslate
-- Linux/AddressTranslation.c
+- WebTechnology/Explanation.txt
+- WebTechnology/OOPS.html
+- WebTechnology/OOPS.js
 
 ---
 
