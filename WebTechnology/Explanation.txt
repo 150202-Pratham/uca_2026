@@ -19,3 +19,6 @@ var obj2 = Object.create
 const obj1 = {name: "name1} ;
 const obj2 = {name: "name1"} ;
 const onj3 = new Object([{name_0:"name_1"}])
+
+
+
