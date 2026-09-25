@@ -9,11 +9,11 @@ Welcome to my Software Engineering Repository.
 
 | Metric | Count |
 |--------|------:|
-| Java Files | 14 |
+| Java Files | 15 |
 | C Files | 29 |
 | Markdown Files | 2 |
 | Folders | 21 |
-| Total Files | 102 |
+| Total Files | 103 |
 
 
 ---
@@ -61,6 +61,7 @@ Welcome to my Software Engineering Repository.
 │   ├── ReverseLL.java
 │   ├── ReversePair.java
 │   ├── RunningMedian.java
+│   ├── SearchLinkedListInOtherList.java
 │   └── SetMatrixZeroes.java
 ├── Linux
 │   ├── AddressTranslate
@@ -87,7 +88,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented General Signal Counter that Counts the Initialilizing Signal sof the Machine
+**Message:** Search LL in another LL
 
 **Author:** Pratham
 
@@ -98,8 +99,7 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- C/Signal.c
-- C/SignalOut.c
+- Java/SearchLinkedListInOtherList.java
 
 ---
 
