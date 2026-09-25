@@ -57,8 +57,9 @@ function foo (arg1,arg2,arg3){
 // Prototype Inderitance 
 
 
-function multiply2{
+function multiply2(){
     
+     
 }
 
 
