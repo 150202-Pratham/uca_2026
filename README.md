@@ -10,10 +10,10 @@ Welcome to my Software Engineering Repository.
 | Metric | Count |
 |--------|------:|
 | Java Files | 14 |
-| C Files | 27 |
+| C Files | 29 |
 | Markdown Files | 2 |
 | Folders | 21 |
-| Total Files | 100 |
+| Total Files | 102 |
 
 
 ---
@@ -39,6 +39,8 @@ Welcome to my Software Engineering Repository.
 │   ├── main.c
 │   ├── ReverseString
 │   ├── ReverseString.c
+│   ├── Signal.c
+│   ├── SignalOut.c
 │   ├── SubStringSearch
 │   ├── SubStringSearch.c
 │   ├── Token
@@ -85,7 +87,7 @@ Welcome to my Software Engineering Repository.
 ## 📝 Latest Commit
 
 
-**Message:** Implemented Intersection of Two linkedList in Java
+**Message:** Implemented General Signal Counter that Counts the Initialilizing Signal sof the Machine
 
 **Author:** Pratham
 
@@ -96,7 +98,8 @@ Welcome to my Software Engineering Repository.
 
 ## 📄 Recently Added Files
 
-- Java/IntersectionList.java
+- C/Signal.c
+- C/SignalOut.c
 
 ---
 
